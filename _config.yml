@@ -1,1 +1,10 @@
-theme: jekyll-theme-time-machine
+lsi: true
+safe: true
+source: [../../../../../../main]
+incremental: true
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
